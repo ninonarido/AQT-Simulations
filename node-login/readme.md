@@ -28,7 +28,7 @@ For testing purposes you can view a [database dump of all accounts here](https:/
 1. Install [Node.js](https://nodejs.org/) & [MongoDB](https://www.mongodb.org/) if you haven't already.
 2. Clone this repository and install its dependencies.
 
-		> git clone git://github.com/ninonarido/node-login.git node-login
+		> git clone git://github.com/ninonarido/montecarlo_4ains.git node-login
 		> cd node-login
 		> npm install
 
