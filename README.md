@@ -1,7 +1,7 @@
 # SIMULATION - 3AINS
 
 
-## Python Simulation Tool Setup Guide
+## Advanced Quantitative Techniques - Python Simulation Tool Setup Guide
 
 ### Prerequisites
 
