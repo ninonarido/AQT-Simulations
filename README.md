@@ -1,4 +1,4 @@
-# SIMULATION - 3AINS
+# Advanced Quantitative Technique Simulations using Python
 
 
 ## Advanced Quantitative Techniques - Python Simulation Tool Setup Guide
