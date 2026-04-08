@@ -1,7 +1,7 @@
 # Advanced Quantitative Technique Simulations using Python
 
 
-## This a Simulation Tool Setup Guide for learner's.
+## This a modeling simulation tool setup guide for learner's.
 
 ### Prerequisites
 
